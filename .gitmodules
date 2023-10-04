@@ -1,0 +1,3 @@
+[submodule "shellhomenode"]
+	path = shellhomenode
+	url = https://github.com/kevincnzhengyang/shellhomenode.git
